@@ -1,8 +1,9 @@
-# AI-Driven-Cybersecurity-Automation
 
 # Automating Cybersecurity with AI: Enhancing Threat Detection and Defense  
+<img width="913" alt="Screenshot 2025-02-10 at 11 46 19 AM" src="https://github.com/user-attachments/assets/341bd25a-b6f9-4bea-89e8-9b341be0c46e" />
 
-## Introduction  
+
+
 Artificial Intelligence (AI) is revolutionizing cybersecurity by **automating threat detection, response, and mitigation** at scale. AI-driven security automation **enhances detection accuracy, reduces response times, and minimizes human error**, allowing security teams to **proactively combat evolving threats**.
 
 This document outlines **AI-driven automation strategies**, including **practical use cases, AI-powered security tools, and advanced AI prompt engineering techniques** for optimal cybersecurity performance.
